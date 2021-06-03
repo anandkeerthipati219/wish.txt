@@ -1,0 +1,2 @@
+print "hi Sir"
+print "good morning sir"
